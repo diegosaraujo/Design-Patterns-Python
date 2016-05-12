@@ -18,7 +18,6 @@ Como criar uma estratégia para calcular o valor do orçamento para cada tipo de
 O código importa um módulo com os vários impostos, mas toda vez que um imposto for adicionado deverá ser alterado
  o código da calculadora.
 
-
  ##Solução
 
  Aplicar o padrão Strategy.
