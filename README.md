@@ -15,9 +15,8 @@ há a possibilidade de existir vários impostos.
 Como criar uma estratégia para calcular o valor do orçamento para cada tipo de imposto que existe e poderá vir a existir.
 
 
-O código importa um módulo com os vários impostos, mas toda vez que um imposto for adicionado deverá ser alterado
- o código da calculadora.
+O código importa um módulo com os vários impostos, mas toda vez que um imposto for adicionado deverá ser alterado o código da calculadora.
 
- ##Solução
+##Solução
 
- Aplicar o padrão Strategy.
+Aplicar o padrão Strategy.
